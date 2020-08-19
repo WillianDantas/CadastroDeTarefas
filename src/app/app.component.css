@@ -1,0 +1,20 @@
+li> button{
+    float: right;
+}
+
+form{
+    padding: 0;
+    margin: 10px 0px;
+}
+
+input{
+    margin: 5px 0px;
+}
+
+.ng-erro{
+    width: 500px;
+    height: 20px;
+    display: block;
+    vertical-align: top;
+    color: #ff0000;
+}
